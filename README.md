@@ -19,9 +19,12 @@
 ### train
 利用resnet50遷移學習
 訓練成3類
-data/mark - 正確
-data/error - 缺失
-data/unknow - 擺放錯誤
+data/mark - 正確  
+
+data/error - 缺失  
+
+data/unknow - 擺放錯誤  
+
 
 ### py2ino
 將訓練好的模型匯入後
