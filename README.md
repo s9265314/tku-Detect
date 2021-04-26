@@ -10,7 +10,7 @@
 ## 硬體![](https://i.imgur.com/ALHFbnE.jpg)
 利用雷射切割機製作樣式之拼圖  
 
-並利用python辨識拼圖是否正確後  
+並利用python持續辨識拼圖是否正確
 
 傳資料給arduino  
 
