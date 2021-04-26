@@ -25,9 +25,9 @@
 
 data/mark - 正確  
 
-data/error - 缺失  
+data/error - 擺放錯誤 
 
-data/unknow - 擺放錯誤  
+data/unknow -  缺失  
 
 
 ### py2ino
